@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi — I'm Rehaan, a 2nd-year B.Tech student at AKTU who likes building simple, reliable software and learning systems from the ground up.<br><br><br>Tech I use<br>- Languages: C (strong), Python (intermediate), Java (basic)<br>- Backend: Node.js (intermediate), REST APIs, Git/GitHub<br>- Fundamentals: Data Structures & Algorithms, systems thinking<br>- Emerging: Generative AI, Model Context Protocol (Anthropic)<br><br><br><br>Want to collaborate?<br>Open an issue, drop a comment on a project, or ping me on GitHub — I’m always experimenting and happy to pair on small builds or campus tech initiatives.<br>
+Hi — I'm Rehaan, a 3rd-year B.Tech student at AKTU who likes building simple, reliable software and learning systems from the ground up.<br><br><br>Tech I use<br>- Languages: C (strong), Python (intermediate), Java (basic)<br>- Backend: Node.js (intermediate), REST APIs, Git/GitHub<br>- Fundamentals: Data Structures & Algorithms, systems thinking<br>- Emerging: Generative AI, Model Context Protocol (Anthropic)<br><br><br><br>Want to collaborate?<br>Open an issue, drop a comment on a project, or ping me on GitHub — I’m always experimenting and happy to pair on small builds or campus tech initiatives.<br>
 
 
 ## 🌐 Socials:
