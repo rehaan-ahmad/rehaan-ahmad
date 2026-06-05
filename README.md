@@ -1,20 +1,17 @@
-# 💫 About Me
-Hi — I'm Rehaan, a 3rd-year B.Tech CSE (AI/ML) student at AKTU. I build high-performance system-level applications and production-grade AI pipelines. 
+## 💫 About Me
 
-I'm focused on moving beyond slide-deck prototypes to engineer resilient, scalable software. Whether I'm writing low-level C/C++ on Fedora or architecting LangGraph agents and FastAPI microservices, I build for load and execution. Off the keyboard, I lead a 400+ member technical community as a GeeksforGeeks Campus Mantri and serve as a Google Student Ambassador (GID: 2770).
+**B.Tech CSE (AI/ML) @ RDEC/AKTU · Google Student Ambassador 2026 (GID: 2770) · GfG Hackfest 2026 National Finalist**
 
-## 🚀 Featured Engineering
-*   **[Aletheia](https://github.com/rehaan-ahmad/aletheia):** National Finalist at GfG Hackfest 2026. A multi-agent LangGraph pipeline executing iterative claim verification with Gemini 2.0 Flash, real-time search grounding, and Hive AI moderation.
-*   **[QueryLens](https://github.com/rehaan-ahmad/querylens):** Natural Language to SQL business intelligence dashboard mapping plain-English to parameterized SQLite execution.
-*   **[Enigma Machine Simulator](https://github.com/rehaan-ahmad/enigma-machine):** A high-fidelity C99 cryptographic simulator and pthread-based Bombe cracker featuring Raylib and ncurses interfaces.
-*   **[MediConnect](https://github.com/rehaan-ahmad/mediconnect):** AI telemedicine triage platform utilizing WebRTC and Genkit built for SIH 2025.
+I build AI systems that ship under pressure — not just demo in slides.
 
-## 💻 Tech Stack
-*   **Systems & Languages:** C, C++, Python, TypeScript, Java, Rust, SQL
-*   **Backend & AI:** FastAPI, Node.js, Google Gemini API, LangGraph, RAG Pipelines, Model Context Protocol (Anthropic)
-*   **Infrastructure:** Linux (Fedora), Docker, Google Cloud Platform, Git, PostgreSQL, SQLite
+**What I've shipped:**
+- 🏆 **[Aletheia](https://github.com/rehaan-ahmad/aletheia)** — LangGraph fact-checking pipeline with iterative claim verification, real-time web grounding, and AthenaGuard security. Built in 48h. GfG Hackfest 2026 Finals.
+- 🔍 **QueryLens** — NL→SQL→BI dashboard. Gemini API + FastAPI + Next.js. Solo, full-stack, under deadline.
+- 🎮 **[CanItRun](https://canitrun-244479174966.asia-south1.run.app)** — Game compatibility checker. Live on Google Cloud Run.
+- 🧠 **SmritiGuard** — Multi-modal AI dementia detection. SIH 2025.
 
-## 🤝 Let's Collaborate
-I am always experimenting with Generative AI architectures, system optimization, or campus tech initiatives. Open an issue, drop a comment on a repo, or reach out directly.
+**Stack:** `FastAPI` · `Next.js 14` · `LangGraph` · `Gemini API` · `Python` · `C` · `TypeScript` · `Docker` · `GCP`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rehaan-ahmad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rehaan1211ahmad@gmail.com)
+**Currently:** Leading GfG RDEC chapter (400+ members) + organising SYNTAXIS 2026 (inter-college techfest, Sept 2026).
+
+Open to collabs, issues, and people who ship. → [LinkedIn](https://linkedin.com/in/rehaan-ahmad)
