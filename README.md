@@ -235,15 +235,14 @@ Pragma powers Syntaxis 2026 — an inter-college tech fest at RDEC. Handles full
 ## 💼 Experience
 
 ### ⚡ Campus Mantri · GeeksforGeeks
-**Aug 2024 – Present &nbsp;·&nbsp; Ghaziabad, India**
+**Jan 2026 – Present &nbsp;·&nbsp; Ghaziabad, India**
 
 Leading the official GfG chapter at R.D. Engineering College — primary developer community for 2,400+ students.
 
 - Scaled community to **400+ active members** across 7+ technical clubs
 - Organized **Campus Awareness Programme**, FirstByte Coding Contest, and Hackfest Preliminary Rounds
 - Facilitated **Noida Office visits** for top contributors
-- Drafted chapter **governance documentation**, by-laws, and succession pipeline
-- Delivered **LaTeX letters of recommendation** for core team at tenure close
+
 
 ![Community Leadership](https://img.shields.io/badge/Community%20Leadership-7C3AED?style=flat-square)
 ![Event Management](https://img.shields.io/badge/Event%20Management-4F46E5?style=flat-square)
@@ -278,6 +277,7 @@ Selected as Google Student Ambassador for the Gemini AI Program — representing
 | ☁️ **GCP Cloud Run Production Deployment** | CanItRun — containerized cloud deployment |
 | 🎓 **B.Tech CSE AI/ML — AKTU** | AI/ML specialization · Batch 2024–2028 |
 | 🎪 **Lead Organizer — Syntaxis 2026** | Inter-college tech fest · 500–900 target participants |
+| 🖥️ **President — Nexora Tech Club** | RDEC College Tech Club · President |
 
 </div>
 
@@ -375,7 +375,7 @@ learning:
 building:
   - Pragma: Laravel + React PWA for Syntaxis 2026 (500-900 participants)
   - Personal portfolio v2: Next.js 14 + Anime.js + Tailwind CSS
-  - Digital library: 206 PDFs on Cloudflare R2 + Pages
+  - Digital library: 300+ PDFs on Cloudflare R2 + Pages
   - RDEC Campus: student portal for 2400+ students on Supabase
 
 exploring:
