@@ -306,7 +306,7 @@ Selected as Google Student Ambassador for the Gemini AI Program — representing
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-rehaan--ahmad-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/rehaan-ahmad)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-rehaan--ahmad-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/rehaan-ahmad)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-rehaan--ahmad-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/rehaan_ahmad)
 [![HackerRank](https://img.shields.io/badge/HackerRank-rehaan--ahmad-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/rehaan-ahmad)
 [![CodeChef](https://img.shields.io/badge/CodeChef-rehaan__ahmad-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/rehaan_ahmad)
 
