@@ -15,7 +15,7 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rehaan--ahmad.vercel.app-B6DB61?style=for-the-badge&logo=vercel&logoColor=black)](https://rehaan-ahmad.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rehaan--ahmad.runs-on.dev-B6DB61?style=for-the-badge&logo=vercel&logoColor=black)](https://rehaan-ahmad.runs-on.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-5DB7EF?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/rehaan-ahmad)
 [![Email](https://img.shields.io/badge/Email-Contact-A17148?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rehaan1211ahmad@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github&logoColor=B6DB61)](https://github.com/rehaan-ahmad)
